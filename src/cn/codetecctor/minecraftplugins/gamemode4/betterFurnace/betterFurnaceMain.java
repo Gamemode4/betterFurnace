@@ -60,7 +60,6 @@ public class betterFurnaceMain extends JavaPlugin implements Listener{
         if(p.getInventory().getItemInHand()!=null && p.getInventory().getItemInHand().getItemMeta()!=null &&  p.getInventory().getItemInHand().getItemMeta().getLore()!=null && p.getInventory().getItemInHand().getItemMeta().getLore().contains("Better Furnace")){
             Block b = e.getBlockPlaced();
             b.setMetadata("BetterFurnace",new FixedMetadataValue(this,"True"));
-            getLogger().info(b.getMetadata("BetterFurnace").get(0).asString());
         }
 
     }
