@@ -8,8 +8,8 @@ A Furnace will Double the amount of output.... For Some Item
 *Redstone(4x)
 #Crafting
 Just Craft in Crafting Table with the Recipe:
-CCC
-CFC
-CCC
-C = CobbleStone
+CCC\n
+CFC\n
+CCC\n
+C = CobbleStone\n
 F = Furnace
