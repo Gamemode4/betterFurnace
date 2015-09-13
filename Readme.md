@@ -6,7 +6,8 @@ A Furnace will Double the amount of output.... For Some Item
 - Diamonds
 - Coal
 - Redstone(4x)
-#Crafting
+
+##Crafting
 Just Craft in Crafting Table with the Recipe:
 
 ![Crafting Img](http://minecraftrecipedesigner.com/creations/141278.png)
